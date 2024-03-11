@@ -1,20 +1,24 @@
 {
-  "name": "backenddevelopmentbyvitalya", 
-  "version": "1.0.0", 
-  "description": "by Vitalya", 
+  "name": "backenddevelopmentbyvitalya",
+  "version": "1.0.0",
+  "description": "by Vitalya",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/vitalya0710/BackendDevelopment.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "vitalya0710",
+  "license": "MIT",
+  "dependencies": {
+    "backenddevelopmentbyvitalya": "^1.0.0",
+    "utilitytoolkitbyvitalya": "^1.0.0"
+  }
 }
